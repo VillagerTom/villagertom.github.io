@@ -1,0 +1,1 @@
+Open first issue to initialize the blog.
